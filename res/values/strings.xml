@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fire Beam</string>
+    <string name="btn_site">My Site</string>
+    <string name="btn_donate">Donate</string>
+    <string name="btn_moreapps">My Apps</string>
+    <string name="safety">Please turn of light before clicking a button.</string>
+
+</resources>
