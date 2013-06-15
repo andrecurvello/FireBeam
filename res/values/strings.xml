@@ -5,6 +5,6 @@
     <string name="btn_site">My Site</string>
     <string name="btn_donate">Donate</string>
     <string name="btn_moreapps">My Apps</string>
-    <string name="safety">Please turn off light before clicking a button.</string>
+    <string name="safety">Please turn off light before clicking a button</string>
 
 </resources>

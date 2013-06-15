@@ -35,8 +35,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:background="@null"
         android:contentDescription="@null"
+        android:background="@null"
         android:src="@drawable/btn_switch_on" />
 
     <TextView
@@ -45,6 +45,8 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/btn_donate"
         android:layout_centerHorizontal="true"
+        android:background="#FFCC0000"
+        android:textColor="#FFFFFFFF"
         android:text="@string/safety" />
 
 </RelativeLayout>
